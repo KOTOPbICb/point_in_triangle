@@ -1,4 +1,4 @@
-**Это не ЛУА БЛЯТЬ! Это Си
+Это не ЛУА БЛЯТЬ! Это Си
 ```
 BOOL IsInTriangle( VEC P1, VEC P2, VEC P3, VEC PTest )
 {
