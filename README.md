@@ -1,4 +1,4 @@
--- Это не ЛУА БЛЯТЬ! Это Си
+```-- Это не ЛУА БЛЯТЬ! Это Си
 BOOL IsInTriangle( VEC P1, VEC P2, VEC P3, VEC PTest )
 {
   int a = (P1.X - PTest.X) * (P2.Y - P1.Y) - (P2.X - P1.X) * (P1.Y - PTest.Y);
@@ -9,4 +9,4 @@ BOOL IsInTriangle( VEC P1, VEC P2, VEC P3, VEC PTest )
     return TRUE;
   else
     return FALSE;
-}
+}```
